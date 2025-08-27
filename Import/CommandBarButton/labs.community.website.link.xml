@@ -1,0 +1,9 @@
+﻿<AML>
+ <Item type="CommandBarButton" id="057B6E9B6BE049EFB7213BED79FE4020" action="add" xmlns:i18n="http://www.aras.com/I18N">
+  <additional_data>{"right": true}</additional_data>
+  <image>../images/Team.svg</image>
+  <on_click_handler keyed_name="labs_LinkToCommunityForums" type="Method">9391BE5669734A3797AEC6D34E1FD687</on_click_handler>
+  <tooltip_template xml:lang="en">Community Forums</tooltip_template>
+  <name>labs.community.website.link</name>
+ </Item>
+</AML>

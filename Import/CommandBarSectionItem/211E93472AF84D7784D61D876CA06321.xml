@@ -1,0 +1,17 @@
+﻿<AML>
+ <Item type="CommandBarSectionItem" id="211E93472AF84D7784D61D876CA06321" action="add" xmlns:i18n="http://www.aras.com/I18N">
+  <action>Add</action>
+  <related_id keyed_name="labs.community.website.link" type="CommandBarItem">
+   <Item type="CommandBarButton" id="057B6E9B6BE049EFB7213BED79FE4020" action="add">
+    <additional_data>{"right": true}</additional_data>
+    <image>../images/Team.svg</image>
+    <on_click_handler keyed_name="labs_LinkToCommunityForums" type="Method">9391BE5669734A3797AEC6D34E1FD687</on_click_handler>
+    <tooltip_template xml:lang="en">Community Forums</tooltip_template>
+    <name>labs.community.website.link</name>
+   </Item>
+  </related_id>
+  <role keyed_name="World" type="Identity">A73B655731924CD0B027E4F4D5FCC0A9</role>
+  <sort_order>129</sort_order>
+  <source_id keyed_name="com.aras.innovator.cui_default.mwh_header" type="CommandBarSection">D1D4C0DBAF024B52AADA2803A92B743B</source_id>
+ </Item>
+</AML>

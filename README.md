@@ -72,7 +72,7 @@ Project | Aras
 
 ## Credits
 
-Created by Matt Toppi for Aras Labs.
+Created by [Matt Toppi](https://github.com/matttoppi) for Aras Labs.
 
 ## License
 

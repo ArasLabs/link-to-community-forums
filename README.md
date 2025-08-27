@@ -4,7 +4,7 @@ This project adds a convenient "Community Forums" button to the main header tool
 
 Enhances the user experience by making it easy for users to access community resources, documentation, and support directly from within the Aras Innovator interface without having to bookmark or remember the community URL.
 
-![Community Forums Button](./Screenshots/community-forums-button.png)
+![Community Forums Button](./Screenshots/screenshot.jpg)
 
 *The Community Forums button appears in the header toolbar with a community icon.*
 

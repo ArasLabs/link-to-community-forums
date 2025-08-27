@@ -71,8 +71,8 @@ _Note: This project was built and tested using Aras Innovator Release 35, but sh
 
 ## Credits
 
-Created by Matt Toppi for Aras Labs.
+Created by Matt Toppi for Aras Labs. 
 
 ## License
 
-Published to Github under the MIT license. See the [LICENSE file](./LICENSE.md) for license rights and limitations.
+Published to Github under the MIT license. See the [LICENSE file](./LICENSE) for license rights and limitations.
